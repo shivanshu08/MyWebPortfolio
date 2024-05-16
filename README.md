@@ -1,5 +1,5 @@
 # MyWebPortfolio
-Welcome to my portfolio! I’m [Your Name], a dedicated [Your Profession] showcasing my latest projects and skills. Explore my work and let’s connect!
+Welcome to my portfolio! I’m Shivanshu Dwivedi, a dedicated Front End Developer showcasing my latest projects and skills. Explore my work and let’s connect!
 
 ## Demo
 Here is a working live demo : https://shivanshuu.netlify.app/
